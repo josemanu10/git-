@@ -1,0 +1,3 @@
+$ git log >> activitat.txt
+#Actividad 
+suma=(5*4)+2
